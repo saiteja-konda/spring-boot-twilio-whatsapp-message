@@ -1,0 +1,8 @@
+twilio:
+  account_sid: AC98bb9ac953a36c34d5ae6f24419a0407
+  auth_token: 3d5292c0ddc92cf3222710a6ceafa8a3
+  trail_number: +14155238886
+
+razorpay:
+  key_id: rzp_test_paG9XUUQbMLGnq
+  key_secret: xRHkHuMYs6UZmPEreHBYKkU7
